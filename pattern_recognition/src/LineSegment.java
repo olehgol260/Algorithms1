@@ -3,7 +3,7 @@
  *  Execution:    none
  *  Dependencies: Point.java
  *
- *  An immutable data type for Line segments in the plane.
+ *  An immutable data type for LineVisited segments in the plane.
  *  For use on Coursera, Algorithms Part I programming assignment.
  *
  *  DO NOT MODIFY THIS CODE.
